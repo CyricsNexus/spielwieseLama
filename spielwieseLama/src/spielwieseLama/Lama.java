@@ -8,9 +8,6 @@ public class Lama {
 		this.rufname = rufname;
 	}
 
-  private String bezeichnung;
-  public Lama(){
 
-  }
 
 }
