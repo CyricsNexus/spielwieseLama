@@ -2,7 +2,7 @@ package spielwieseLama;
 
 public class Lama {
 	
-	private String rufname = "Mopple";
+	private String rufname = "Maple";
 	private String geraeusch = "Möööht";
 	
 	public Lama(String rufname, String gerauesch) {
