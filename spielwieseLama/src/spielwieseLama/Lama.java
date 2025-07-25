@@ -1,4 +1,4 @@
-package spielwieseLama;
+package spielwieseLama; 
 
 public class Lama {
 	
