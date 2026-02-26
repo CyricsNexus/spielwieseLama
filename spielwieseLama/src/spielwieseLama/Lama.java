@@ -14,6 +14,11 @@ public class Lama {
 
 	}
 
+	public String getRufname(){
+		return rufname;
+	}
 
-
+	public String getGeraeusch() {
+		return geraeusch;
+	}
 }
