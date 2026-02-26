@@ -10,6 +10,10 @@ public class Lama {
 		this.geraeusch = geraeusch;
 	}
 
+	public Lama(){
+
+	}
+
 
 
 }
